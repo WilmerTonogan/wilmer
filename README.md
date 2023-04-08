@@ -1,35 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@WilmerTonogan 
-WilmerTonogan
-/
-wilmer
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-wilmer/login_form.php /
-@WilmerTonogan
-WilmerTonogan Add files via upload
-Latest commit 0f7788c 4 minutes ago
- History
- 1 contributor
-73 lines (52 sloc)  1.77 KB
- 
-
 <?php
 
 @include 'config.php';
@@ -103,18 +71,3 @@ if(isset($_POST['submit'])){
 
 </body>
 </html>     
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-wilmer/login_form.php at main · WilmerTonogan/wilmer
